@@ -1,5 +1,5 @@
 # Lab 05 — Improve Weak Prompt → Structured DBA Prompt
-**Day:** 1 | **Duration:** 10 minutes | **Difficulty:** Beginner
+
 
 ---
 

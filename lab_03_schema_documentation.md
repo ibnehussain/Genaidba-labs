@@ -1,5 +1,4 @@
 # Lab 03 — Generate Schema Documentation Summary
-**Day:** 1 | **Duration:** 10 minutes | **Difficulty:** Beginner
 
 ---
 

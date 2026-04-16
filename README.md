@@ -50,6 +50,8 @@ Hands-on lab files for the **GenAI for DBA** training session. These labs cover 
 
 ## Labs Overview
 
+### Day 1 (Labs 1-5)
+
 | Lab | File | Description |
 |-----|------|-------------|
 | Lab 01 | [lab_01_dba_ticket_to_sql.md](lab_01_dba_ticket_to_sql.md) | Convert a DBA support ticket to SQL |
@@ -58,6 +60,18 @@ Hands-on lab files for the **GenAI for DBA** training session. These labs cover 
 | Lab 03 | [lab_03_schema_documentation.md](lab_03_schema_documentation.md) | Generate schema documentation with Copilot |
 | Lab 04 | [lab_04_natural_language_to_sql.md](lab_04_natural_language_to_sql.md) | Natural language to SQL conversion |
 | Lab 05 | [lab_05_improve_prompt.md](lab_05_improve_prompt.md) | Prompt engineering best practices |
+
+### Day 2 (Labs 6-12)
+
+| Lab | File | Description |
+|-----|------|-------------|
+| Lab 06 | [lab_06_optimize_slow_query.md](lab_06_optimize_slow_query.md) | Optimize a slow SQL query with Copilot |
+| Lab 07 | [lab_07_suggest_indexes.md](lab_07_suggest_indexes.md) | Suggest and evaluate index improvements |
+| Lab 08 | [lab_08_prompt_library.md](lab_08_prompt_library.md) | Build a personal DBA prompt library |
+| Lab 09 | [lab_09_awr_report_analysis.md](lab_09_awr_report_analysis.md) | Analyze AWR-style data and create action plans |
+| Lab 10 | [lab_10_stored_procedure_generation.md](lab_10_stored_procedure_generation.md) | Generate stored procedures from structured comments |
+| Lab 11 | [lab_11_copilot_validation_loop.md](lab_11_copilot_validation_loop.md) | Use a validation loop to improve Copilot output quality |
+| Lab 12 | [lab_12_working_with_md_files.md](lab_12_working_with_md_files.md) | Work with markdown files as live Copilot context |
 
 ---
 
@@ -77,6 +91,8 @@ Hands-on lab files for the **GenAI for DBA** training session. These labs cover 
 ## Resources
 
 - [GitHub Copilot Documentation](https://docs.github.com/en/copilot)
-- [GitHub Copilot Extension for VS Code](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot)
-- [GitHub Copilot Chat Extension for VS Code](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot-chat)
+
 - [Prompt Engineering for GitHub Copilot](https://docs.github.com/en/copilot/using-github-copilot/prompt-engineering-for-github-copilot)
+
+- [GitHub Status](https://www.githubstatus.com/) — Use this when Copilot sign-in, suggestions, or Chat responses seem unavailable or slow to confirm if there is an ongoing GitHub service incident.
+

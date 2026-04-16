@@ -1,5 +1,5 @@
 # Lab 04 — Generate SELECT/JOIN from Natural Language
-**Day:** 1 | **Duration:** 10 minutes | **Difficulty:** Beginner
+
 
 ---
 
