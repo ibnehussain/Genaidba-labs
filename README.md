@@ -48,6 +48,38 @@ Hands-on lab files for the **GenAI for DBA** training session. These labs cover 
 
 ---
 
+## Setting Up GitHub Copilot in IntelliJ IDEA
+
+### Step 1: Install the GitHub Copilot Plugin
+
+1. Open **IntelliJ IDEA**.
+2. Go to **Settings/Preferences** → **Plugins**.
+3. Search for **GitHub Copilot** and click **Install**.
+4. Restart IntelliJ IDEA if prompted.
+
+### Step 2: Sign In to GitHub
+
+1. Open **Tools** → **GitHub Copilot** → **Log in to GitHub**.
+2. Follow the browser sign-in flow and authorize IntelliJ IDEA.
+3. Return to IntelliJ IDEA and confirm Copilot is connected.
+
+### Step 3: Verify Copilot is Working
+
+1. Open any `.sql` or `.md` file from this repo.
+2. Start typing a comment or SQL statement.
+3. Accept inline suggestions with `Tab`, or dismiss with `Esc`.
+
+### Step 4: Use Copilot Chat
+
+1. Open the Copilot Chat tool window from the IDE sidebar.
+2. Ask questions such as:
+   ```
+   Explain this query plan and suggest index improvements.
+   ```
+3. Use file/selection context to get more accurate responses.
+
+---
+
 ## Labs Overview
 
 ### Day 1 (Labs 1-5)
@@ -95,4 +127,3 @@ Hands-on lab files for the **GenAI for DBA** training session. These labs cover 
 - [Prompt Engineering for GitHub Copilot](https://docs.github.com/en/copilot/using-github-copilot/prompt-engineering-for-github-copilot)
 
 - [GitHub Status](https://www.githubstatus.com/) — Use this when Copilot sign-in, suggestions, or Chat responses seem unavailable or slow to confirm if there is an ongoing GitHub service incident.
-
